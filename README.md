@@ -65,10 +65,10 @@ How to run this project.
 7. Login with admin or student credentials.
 
 Admin login details:
-Login- admin@gamil.com
+Email- admin@gamil.com
 Password- admin@123
 
 Student login details:
-Login- abc@gmail.com
+Email- abc@gmail.com
 Password- abc@123
 
