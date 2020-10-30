@@ -41,7 +41,8 @@ Admin can-
 
 
 Student Login- Every student will have email ID and password to login to the website. A student can login using his/her correct email ID and password. When user clicks on the Student Login it will be redirect you to the user login page. Where any student can login into website. 
-![Screenshot (82)](https://user-images.githubusercontent.com/68813874/97704944-4606ac80-1ad9-11eb-9db8-5ba3443b04bd.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/68813874/97719660-59237780-1aed-11eb-9fff-df8bdd4f7e2e.png)
+
 
 Student can-
 
